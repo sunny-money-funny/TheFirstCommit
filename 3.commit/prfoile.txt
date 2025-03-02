@@ -1,2 +1,2 @@
-email :
-gitID :
+email : this.is.js.j@gmail.com
+gitID :	sunny-money-funny
